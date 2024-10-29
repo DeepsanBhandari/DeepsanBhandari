@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepsanBhandari
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning C programmiing,javascript.
+- 🌱 I’m currently learning C programming,javascript.
 - 
 - 📫 You can to reach me through linkedin www.linkedin.com/in/
 deepsan-bhandari-49ab112b7
