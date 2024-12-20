@@ -24,8 +24,9 @@ I am passionate about technology and constantly eager to learn and contribute to
 - Programming concepts in C, C++, and JavaScript
 
 ## 📫 How to Reach Me
-- **Email:** [Your Email Here]
-- **GitHub:** [Your GitHub Profile Link]
+- **Email:** bhandarideepsan25@gmail.com
+-**linkedin** www.linkedin.com/in/
+deepsan-bhandari-49ab112b7
 
 ## 🚀 My Goals
 - Contribute to open-source projects
@@ -34,10 +35,6 @@ I am passionate about technology and constantly eager to learn and contribute to
 
 Thanks for visiting! Let's collaborate and learn together! 😊
 
-
-- 
-- 📫 You can to reach me through linkedin www.linkedin.com/in/
-deepsan-bhandari-49ab112b7
 
 
 
