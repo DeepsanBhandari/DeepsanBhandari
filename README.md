@@ -32,9 +32,7 @@ deepsan-bhandari-49ab112b7
 - Contribute to open-source projects
 - Build and publish personal projects
 - Continuously expand my knowledge in software development
-- ### 🔗 Connect with Me:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsan-bhandari-49ab112b7)  
+- ### 🔗 Connect with Me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsan-bhandari-49ab112b7)  
 
 
 ### 🛠️ Skills and Technologies:  
