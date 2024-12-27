@@ -39,7 +39,7 @@ deepsan-bhandari-49ab112b7
 
 ### 🛠️ Skills and Technologies:  
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)(https://github.com/DeepsanBhandari/c-programing)   
+[![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)](https://github.com/DeepsanBhandari/c-programing)   
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white) 
 
 Thanks for visiting! Let's collaborate and learn together! 😊
