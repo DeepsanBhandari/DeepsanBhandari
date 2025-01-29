@@ -2,11 +2,11 @@
 
 I am passionate about technology and constantly eager to learn and contribute to tech projects. I am currently exploring:
 <img align="right" alt = "BinaryDigit" width="400" src = "https://github.com/user-attachments/assets/ec54c613-ef1b-46ae-af75-511b2a809a33">
-- **Programming Languages:** C, C++, JavaScript
+- **Programming Languages:** C, C++, Java
 - **Libraries and Frameworks:** Actively learning new libraries to enhance my development skills                 
 
 ## 🔭 What I’m Working On
-- Building foundational skills in C, C++, and JavaScript
+- Building foundational skills in C, C++, and Java
 - Exploring open-source projects to contribute and learn
 
 ## 🌱 What I’m Learning
