@@ -8,8 +8,20 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsan-bhandari-18847b365)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhandari1/) 
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepsan-bhandari-18847b365" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
+  </a>
+  <a href="https://leetcode.com/u/Bhandari1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="45" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" />
+  </a>
+</p>
+
 
 ---
 
