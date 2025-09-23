@@ -9,7 +9,7 @@
 
 ### 🌐 Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/deepsan-bhandari-18847b365" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>&nbsp;&nbsp;
@@ -38,11 +38,16 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepsanBhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsanBhandari&layout=compact&theme=tokyonight&hide_border=true&card_width=400)  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DeepsanBhandari&theme=tokyonight&hide_border=true)
+  <!-- Row 1: Two cards side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepsanBhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsanBhandari&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" height="200"/>
+
+  <!-- Row 2: Full width card -->
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=DeepsanBhandari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800"/>
 
 </div>
+
 
 ---
 
