@@ -59,15 +59,12 @@
   <img src="https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma" alt="LeetCode Stats" width="400"/>
 
   <!-- Animated Heatmap Scrolling -->
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" width="800">
-  </p>
+  
 
 </div>
 
 ---
 
-### 🎶 Fun Touch (Scrolling Animation)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+DSA;Passionate+about+Backend+Development;Always+learning+new+things+✨" alt="Typing Animation">
