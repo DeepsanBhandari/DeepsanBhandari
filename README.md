@@ -51,7 +51,10 @@
 
 ### 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma&ext=heatmap&border=0&animation=false)
+<img src="https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma&ext=heatmap&border=0&animation=false" width="800"/>
+
 ---
 
 
