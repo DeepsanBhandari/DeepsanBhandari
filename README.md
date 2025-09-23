@@ -2,7 +2,7 @@
 
 - 🔗 All of my projects are available at [GitHub](https://github.com/DeepsanBhandari)
 - 📘 I’m currently learning **Java | Spring Boot | DSA**
-- ✍️ I write articles on [LinkedIn](www.linkedin.com/in/deepsan-bhandari-18847b365)
+- ✍️ I write articles on [LinkedIn](https://www.linkedin.com/in/deepsan-bhandari-18847b365)
 - ⚡ Fact: *At the end everything is static*
 
 ---
