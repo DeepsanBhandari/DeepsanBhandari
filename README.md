@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/u/Bhandari1/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="50" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:bhandarideepsan61@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
 </p>
@@ -44,7 +44,7 @@
 
   <!-- Row 2: Full width card -->
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=DeepsanBhandari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800"/>
+  <img src="https://streak-stats.demolab.com?user=DeepsanBhandari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 
 </div>
 
