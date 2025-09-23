@@ -13,16 +13,21 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?logo=springboot&logoColor=white)  
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=orange)  
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode&logoColor=white)  
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,python" alt="Languages" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Frameworks" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
 
 ---
 
@@ -35,8 +40,6 @@
 ### 💻 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Bhandari1?theme=dark&font=Karma&ext=heatmap)
-
-
 ---
 
 
