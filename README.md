@@ -8,7 +8,6 @@
 ---
 
 ### 🌐 Connect with me:
-### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deepsan-bhandari-18847b365" target="_blank">
