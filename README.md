@@ -1,4 +1,8 @@
 # Hi there, I'm Deepsan 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+DSA;Passionate+about+Backend+Development;Always+learning+new+things+✨" alt="Typing Animation">
+</p>
+
 
 - 🔗 All of my projects are available at [GitHub](https://github.com/DeepsanBhandari)
 - 📘 I’m currently learning **Java | Spring Boot | DSA**
