@@ -68,8 +68,19 @@
 </div>
 
 ---
+## Open Source Contributions
+
+- Contributed a **Java + Spring Boot skill rule** to AI Nexus  
+  PR: https://github.com/JSK9999/ai-nexus/pull/61  
+  Added best practices for:
+  - Spring Boot REST APIs
+  - Layered architecture
+  - JPA usage
+  - Dependency injection
 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+DSA;Passionate+about+Backend+Development;Always+learning+new+things+✨" alt="Typing Animation">
 </p>
+
+
