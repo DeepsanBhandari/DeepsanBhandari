@@ -70,13 +70,29 @@
 ---
 ## Open Source Contributions
 
-- Contributed a **Java + Spring Boot skill rule** to AI Nexus  
-  PR: https://github.com/JSK9999/ai-nexus/pull/61  
-  Added best practices for:
-  - Spring Boot REST APIs
-  - Layered architecture
-  - JPA usage
-  - Dependency injection
+### AI Nexus
+
+Contributed multiple skill rules to the AI Nexus project.
+
+• Java + Spring Boot rule
+PR: JSK9999/ai-nexus#61
+Added best practices for:
+
+* Spring Boot REST APIs
+* Layered architecture
+* JPA usage
+* Dependency injection
+
+• CI/CD GitHub Actions rule
+PR: JSK9999/ai-nexus#79
+Added best practices for:
+
+* GitHub Actions workflow structure
+* CI pipeline patterns (test → build → deploy)
+* Dependency caching
+* Artifact management
+* Secrets and environment handling
+
 
 
 <p align="center">
