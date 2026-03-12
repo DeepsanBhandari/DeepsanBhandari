@@ -37,6 +37,39 @@
 </p>
 
 ---
+##  Open Source Contributions
+
+### AI Nexus
+Contributed multiple backend engineering skill rules to the AI Nexus open-source project.
+
+🔹 **Java + Spring Boot Best Practices**  
+PR → https://github.com/JSK9999/ai-nexus/pull/61  
+Guidelines for:
+- REST API design
+- Layered architecture
+- JPA best practices
+- Dependency Injection
+
+🔹 **CI/CD GitHub Actions Rule**  
+PR → https://github.com/JSK9999/ai-nexus/pull/79  
+Guidelines for:
+- Workflow structure
+- CI pipelines (test → build → deploy)
+- Dependency caching
+- Artifact management
+- Secrets handling
+
+🔹 **GraphQL API Design & Resolver Best Practices**  
+PR → https://github.com/JSK9999/ai-nexus/pull/80  
+Guidelines for:
+- GraphQL schema design
+- Query & mutation patterns
+- Resolver architecture
+- N+1 query prevention with DataLoader
+- Authentication & authorization
+- Pagination & performance optimization
+
+All contributions reviewed and merged by project maintainers.
 
 ### 📊 My GitHub Stats
 
@@ -68,32 +101,6 @@
 </div>
 
 ---
-## Open Source Contributions
-
-### AI Nexus
-
-Contributed multiple skill rules to the AI Nexus project.
-
-• Java + Spring Boot rule
-PR: JSK9999/ai-nexus#61
-Added best practices for:
-
-* Spring Boot REST APIs
-* Layered architecture
-* JPA usage
-* Dependency injection
-
-• CI/CD GitHub Actions rule
-PR: JSK9999/ai-nexus#79
-Added best practices for:
-
-* GitHub Actions workflow structure
-* CI pipeline patterns (test → build → deploy)
-* Dependency caching
-* Artifact management
-* Secrets and environment handling
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+DSA;Passionate+about+Backend+Development;Always+learning+new+things+✨" alt="Typing Animation">
