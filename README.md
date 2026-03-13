@@ -37,6 +37,20 @@
 </p>
 
 ---
+##  Featured Projects
+
+### 🏢 Workflow Approval Management System
+Production-ready backend workflow engine built with **Java + Spring Boot**.
+
+- 🔐 JWT Authentication & Role-Based Access
+- 🔄 Multi-Level Approval Workflow
+- 📜 Full Audit History Tracking
+- 🐳 Dockerized Deployment
+
+**Tech:** Java • Spring Boot • PostgreSQL • Docker • JWT  
+
+🔗 **Repo:** https://github.com/DeepsanBhandari/workflow-approval-system  
+🌍 **API Docs:** https://workflow-approval-system-zq0a.onrender.com/swagger-ui.html
 ##  Open Source Contributions
 
 ### AI Nexus
