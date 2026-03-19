@@ -53,6 +53,24 @@ Production-ready backend workflow engine built with **Java + Spring Boot**.
 🌍 **API Docs:** https://workflow-approval-system-zq0a.onrender.com/swagger-ui.html
 ##  Open Source Contributions
 
+### ApproveJ (IntelliJ Plugin)
+
+Contributed to **ApproveJ**, a Java approval-testing library with IntelliJ integration.
+
+🔹 **Bug Fix & Plugin Stability Improvement**  
+PR → https://github.com/mkutz/approvej/pull/249  
+
+- Fixed a production issue where IntelliJ gutter icons disappeared for unexecuted `approve()` calls when a test failed mid-execution  
+- Identified root cause in `ApprovedFileInventoryUpdater` incorrectly removing all entries for a test method  
+- Reworked merge logic to update entries per file path instead of clearing all entries  
+- Preserved unexecuted approval states, improving developer feedback in the IDE  
+- Simplified approved-file filtering logic in `ApproveCallLineMarkerProvider`  
+- Added unit tests covering:
+  - Mixed approval states  
+  - Inventory entry preservation scenario  
+
+🤝 Co-authored with project maintainer and successfully merged
+
 ### AI Nexus
 Contributed multiple backend engineering skill rules to the AI Nexus open-source project.
 
